@@ -17,8 +17,8 @@
 14. [References](#references)
 15. [Appendix](#appendix)
 
----
 
+---
 ## Introduction
 Retail sales prediction is crucial for inventory management, financial planning, and marketing strategies. This project aims to build a robust model to predict daily sales using historical sales data.
 
@@ -95,4 +95,5 @@ The goal is to forecast daily sales for a retail store using historical sales da
 
 ## Appendix
 - Additional code snippets and data samples.
+
 
